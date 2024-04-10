@@ -33,6 +33,7 @@ const Page1 = () => {
           Page 1
         </Heading>
         <Text fontSize="xl">This is the first demo page.</Text>
+        <Text>Here is some additional text for Page 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Text>
         <Link to="/">
           <Button colorScheme="blue">Back to Home</Button>
         </Link>
@@ -49,6 +50,7 @@ const Page2 = () => {
           Page 2
         </Heading>
         <Text fontSize="xl">This is the second demo page.</Text>
+        <Text>And here is some extra text content for Page 2. Pellentesque euismod nisi eu nulla convallis fermentum.</Text>
         <Link to="/">
           <Button colorScheme="green">Back to Home</Button>
         </Link>
